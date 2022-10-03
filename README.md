@@ -6,7 +6,7 @@ This work is part of my student research project at the University of Stuttgart 
 * Pytorch related libraries: torch_cluster 1.5.9, torch-sparse 0.6.12, torch_geometric 1.7.0, torch_points3d 1.3.0, torch_points_kernels 0.6.10, torch_scatter 2.0.8
 
 # Datasets Preparation
-The dataset consists of 20 scenes containing wires and cables at Fraunhofer IPA Vision Lab and test field. Please refer to the steps for S3DIS preprocessing in https://github.com/yanx27/Pointnet_Pointnet2_pytorch.
+The dataset consists of 20 scenes containing wires and cables at Fraunhofer IPA Vision Lab and test field. Please refer to the steps for S3DIS preprocessing in [yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch).
 
 # PointNet++
 * Training
@@ -33,3 +33,7 @@ python3 test.py --config config/stratified_transformer_train_val_test.yaml
 1. 3D point cloud acquisition (3D (XYZ) + color (RGB)).
 2. export point cloud to `data_root` in format `.pcd`.
 3. modify the `data_root` in `config/stratified_transformer_cable_segmentation.yaml` and run `python3 cable_segmentation.py --config config/stratified_transformer_cable_segmentation.yaml`.
+
+# Reference to
+[yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)<br>
+[dvlab-research/Stratified-Transformer](https://github.com/dvlab-research/Stratified-Transformer)<br>
