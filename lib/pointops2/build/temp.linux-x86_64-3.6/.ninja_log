@@ -1,0 +1,22 @@
+# ninja log v5
+5	9099	1661783078	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/subtraction/subtraction_cuda.o	4b5402fc96c3fb1a
+2	9748	1661783079	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/sampling/sampling_cuda.o	5655cc2745b66f08
+3	10121	1661783079	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/interpolation/interpolation_cuda.o	a4aad369b0451e95
+3	10363	1661783080	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/grouping/grouping_cuda.o	4e288503447f1d1b
+1	10564	1661783080	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/knnquery/knnquery_cuda.o	526fc9318c50e591
+9748	19886	1661783089	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/aggregation/aggregation_cuda.o	ae6082ed4162c784
+10363	21952	1661783091	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/attention/attention_cuda.o	7a3133bdd868bef6
+19886	29562	1661783099	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/rpe/relative_pos_encoding_cuda.o	4775da589849a9fc
+29562	38289	1661783107	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/attention_v2/attention_cuda_v2.o	9d44b50b114a7353
+1	38928	1661783108	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/pointops_api.o	415e3e7751a98b5f
+8	10318	1661783396	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/rpe_v2/relative_pos_encoding_cuda_v2.o	8843de4e548f997b
+5	9714	1661784995	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/interpolation/interpolation_cuda.o	a4aad369b0451e95
+4	9888	1661784996	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/knnquery/knnquery_cuda.o	526fc9318c50e591
+7	10114	1661784996	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/subtraction/subtraction_cuda.o	4b5402fc96c3fb1a
+4	10151	1661784996	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/sampling/sampling_cuda.o	5655cc2745b66f08
+5	10435	1661784996	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/grouping/grouping_cuda.o	4e288503447f1d1b
+10114	18733	1661785004	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/attention/attention_cuda.o	7a3133bdd868bef6
+9714	19854	1661785006	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/aggregation/aggregation_cuda.o	ae6082ed4162c784
+10436	20687	1661785006	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/rpe/relative_pos_encoding_cuda.o	4775da589849a9fc
+19854	29066	1661785015	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/attention_v2/attention_cuda_v2.o	9d44b50b114a7353
+29066	38257	1661785024	/home/adm-awi/Bildverarbeitung/Cable_Segmentation/lib/pointops2/build/temp.linux-x86_64-3.6/src/rpe_v2/relative_pos_encoding_cuda_v2.o	8843de4e548f997b
